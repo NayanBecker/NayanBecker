@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nayan</h1>
 <h3 align="center">I’m interested in learn Programmation, and the future of IOT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanbecker&label=Profile%20views&color=0e75b6&style=flat" alt="nayanbecker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayanbecker" alt="nayanbecker" /></a> </p>
 
 - 🌱 I’m currently learning **live a better life**
 
@@ -24,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nayanbecker&show_icons=true&locale=en" alt="nayanbecker" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanbecker&" alt="nayanbecker" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanbecker&label=Profile%20views&color=0e75b6&style=flat" alt="nayanbecker" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayanbecker" alt="nayanbecker" /></a> </p>
