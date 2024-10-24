@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nayanbecker@gmail.com**
 
-- ⚡ Fun fact **I love peoples!**
+- ⚡ Fun fact **I love peoples! && Robots**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
