@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **live a better life**
 
-- 👯 I’m looking to collaborate on **developers teams**
+- 👯 I’m looking to collaborate on **Big Projects to make the world better**
 
 - 📫 How to reach me **nayanbecker@gmail.com**
 
